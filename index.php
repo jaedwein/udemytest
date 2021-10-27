@@ -1,3 +1,3 @@
 <?php
-echo "mensaje en rama nueva";
+echo "mensaje en rama master";
 ?>
